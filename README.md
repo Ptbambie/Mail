@@ -3,15 +3,15 @@ Ce projet est un exemple simple qui montre comment utiliser Dotenv et Mailjet po
 
 # Installation
 
-1 Clonez ce dépôt de code sur votre machine locale.
-2 Assurez-vous d'avoir Node.js installé sur votre machine.
-3 Exécutez la commande npm install pour installer les dépendances.
+1. Clonez ce dépôt de code sur votre machine locale.
+2. Assurez-vous d'avoir Node.js installé sur votre machine.
+3. Exécutez la commande npm install pour installer les dépendances.
 
 # Configuration
 
-1 Créez un compte sur Mailjet si vous n'en avez pas déjà un.
-2 Créez un fichier .env à la racine du projet.
-3 Dans le fichier .env, ajoutez les informations d'authentification SMTP de Mailjet. Voici un exemple :
+1. Créez un compte sur Mailjet si vous n'en avez pas déjà un.
+2. Créez un fichier .env à la racine du projet.
+3. Dans le fichier .env, ajoutez les informations d'authentification SMTP de Mailjet. Voici un exemple :
 
 Copy code
 ```
