@@ -1,8 +1,8 @@
 const mailer = require('./mailer');
 
 mailer.sendMail({
-    from: 'audreyalaime3@gmail.com',
-    to: 'graphique.diffusion.alaime@gmail.com',
+    from: '****@gmail.com',
+    to: '*****@gmail.com',
     subject: 'Test',
     text: 'Hello World!',
     html: '<b>Hello World!</b>',
